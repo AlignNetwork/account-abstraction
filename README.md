@@ -1,4 +1,9 @@
-Implementation of contracts for [ERC-4337](https://eips.ethereum.org/EIPS/eip-4337) account abstraction via alternative mempool.
+# CHANGES 03/14/2024
+
+- Added Mnemonic
+- Remove gasLimit for EntryPoint deploy to work w/ Arbitrum Orbit
+
+  Implementation of contracts for [ERC-4337](https://eips.ethereum.org/EIPS/eip-4337) account abstraction via alternative mempool.
 
 # Resources
 
